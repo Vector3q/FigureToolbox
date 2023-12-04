@@ -21,7 +21,7 @@ height = 0.25  # 柱子的高度
 bars1 = plt.barh(y - height, first, height, capsize=5)
 bars2 = plt.barh(y, second, height, xerr=error_length, label='GB',  color='#8ECFC9', capsize=5)
 bars3 = plt.barh(y + height, third, height, xerr=error_length,  label='FB', color='#FA7F6F', capsize=5)
-plt.xlabel('Scores')
+plt.xlabel('Score')
 # y轴刻度标签位置不进行计算
 plt.yticks([])
 
