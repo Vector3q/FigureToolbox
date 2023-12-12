@@ -14,6 +14,6 @@
 </div>
 <div>
   <a href="/BarChart/BarChart_withErrorBar_horizontal.py">
-    <img src="/img/BarChart_withErrorBar_horizontal_Pair.png" alt="Image 2" width="600" />
+    <img src="/img/BarChart_withErrorBar_horizontal_Pair.png" alt="Image 2" width="400" />
   </a>
 </div>
