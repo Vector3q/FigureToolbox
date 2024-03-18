@@ -1,0 +1,4629 @@
+[
+  {
+    "video": "P1",
+    "time": 1710210395687,
+    "date": "03/12 10:26:35",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210395687,
+    "date": "03/12 10:26:35",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210399250,
+    "date": "03/12 10:26:39",
+    "video_time": 0,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710210402588,
+    "date": "03/12 10:26:42",
+    "video_time": 3.140512,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210466947,
+    "date": "03/12 10:27:46",
+    "video_time": 3.287677,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710210484629,
+    "date": "03/12 10:28:04",
+    "video_time": 20,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210484629,
+    "date": "03/12 10:28:04",
+    "video_time": 20.495322,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210487156,
+    "date": "03/12 10:28:07",
+    "video_time": 31,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210487156,
+    "date": "03/12 10:28:07",
+    "video_time": 31.811891,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210492558,
+    "date": "03/12 10:28:12",
+    "video_time": 45,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210492558,
+    "date": "03/12 10:28:12",
+    "video_time": 45.715991,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210494691,
+    "date": "03/12 10:28:14",
+    "video_time": 56,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210494691,
+    "date": "03/12 10:28:14",
+    "video_time": 56.529143,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210496307,
+    "date": "03/12 10:28:16",
+    "video_time": 67,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210496307,
+    "date": "03/12 10:28:16",
+    "video_time": 67.255623,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210497594,
+    "date": "03/12 10:28:17",
+    "video_time": 77,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210497594,
+    "date": "03/12 10:28:17",
+    "video_time": 77.462167,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210500756,
+    "date": "03/12 10:28:20",
+    "video_time": 89,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210500756,
+    "date": "03/12 10:28:20",
+    "video_time": 89.588209,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210503776,
+    "date": "03/12 10:28:23",
+    "video_time": 101,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210503776,
+    "date": "03/12 10:28:23",
+    "video_time": 101.852148,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210539091,
+    "date": "03/12 10:28:59",
+    "video_time": 145,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210539091,
+    "date": "03/12 10:28:59",
+    "video_time": 145.468844,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210544365,
+    "date": "03/12 10:29:04",
+    "video_time": 147.725377,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210612162,
+    "date": "03/12 10:30:12",
+    "video_time": 147,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210612162,
+    "date": "03/12 10:30:12",
+    "video_time": 147.754242,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210614210,
+    "date": "03/12 10:30:14",
+    "video_time": 144.271782,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210642646,
+    "date": "03/12 10:30:42",
+    "video_time": 144.499962,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710210646579,
+    "date": "03/12 10:30:46",
+    "video_time": 147,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210646579,
+    "date": "03/12 10:30:46",
+    "video_time": 147.55627,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210648141,
+    "date": "03/12 10:30:48",
+    "video_time": 157,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210648141,
+    "date": "03/12 10:30:48",
+    "video_time": 157.991923,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210649708,
+    "date": "03/12 10:30:49",
+    "video_time": 168,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210649708,
+    "date": "03/12 10:30:49",
+    "video_time": 168.26523,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210663189,
+    "date": "03/12 10:31:03",
+    "video_time": 190.68607,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210679245,
+    "date": "03/12 10:31:19",
+    "video_time": 190.875508,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710210693730,
+    "date": "03/12 10:31:33",
+    "video_time": 204.749984,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210753658,
+    "date": "03/12 10:32:33",
+    "video_time": 204.909086,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710210774438,
+    "date": "03/12 10:32:54",
+    "video_time": 225.274175,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210781265,
+    "date": "03/12 10:33:01",
+    "video_time": 225,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210781265,
+    "date": "03/12 10:33:01",
+    "video_time": 225.338311,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210783155,
+    "date": "03/12 10:33:03",
+    "video_time": 214.266234,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210818171,
+    "date": "03/12 10:33:38",
+    "video_time": 214,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210818171,
+    "date": "03/12 10:33:38",
+    "video_time": 214.268048,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210827926,
+    "date": "03/12 10:33:47",
+    "video_time": 226,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210827926,
+    "date": "03/12 10:33:47",
+    "video_time": 226,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210830052,
+    "date": "03/12 10:33:50",
+    "video_time": 223.541972,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210874070,
+    "date": "03/12 10:34:34",
+    "video_time": 223.77109,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710210879892,
+    "date": "03/12 10:34:39",
+    "video_time": 228,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210879892,
+    "date": "03/12 10:34:39",
+    "video_time": 228.925158,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210882821,
+    "date": "03/12 10:34:42",
+    "video_time": 240,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210882821,
+    "date": "03/12 10:34:42",
+    "video_time": 240.337666,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210884989,
+    "date": "03/12 10:34:44",
+    "video_time": 251,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210884989,
+    "date": "03/12 10:34:44",
+    "video_time": 251.817664,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210903047,
+    "date": "03/12 10:35:03",
+    "video_time": 258,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210903047,
+    "date": "03/12 10:35:03",
+    "video_time": 258.491105,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210964992,
+    "date": "03/12 10:36:04",
+    "video_time": 302.280544,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710210995872,
+    "date": "03/12 10:36:35",
+    "video_time": 302,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210995872,
+    "date": "03/12 10:36:35",
+    "video_time": 302.487131,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710210997642,
+    "date": "03/12 10:36:37",
+    "video_time": 282,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211001090,
+    "date": "03/12 10:36:41",
+    "video_time": 285,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211001090,
+    "date": "03/12 10:36:41",
+    "video_time": 285.122176,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211003603,
+    "date": "03/12 10:36:43",
+    "video_time": 251.33158,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211139841,
+    "date": "03/12 10:38:59",
+    "video_time": 251,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211139841,
+    "date": "03/12 10:38:59",
+    "video_time": 251.403433,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211141371,
+    "date": "03/12 10:39:01",
+    "video_time": 252,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211141371,
+    "date": "03/12 10:39:01",
+    "video_time": 252.257208,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211143507,
+    "date": "03/12 10:39:03",
+    "video_time": 252.780608,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211165622,
+    "date": "03/12 10:39:25",
+    "video_time": 252,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211165622,
+    "date": "03/12 10:39:25",
+    "video_time": 252.947786,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211172323,
+    "date": "03/12 10:39:32",
+    "video_time": 305,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211172323,
+    "date": "03/12 10:39:32",
+    "video_time": 305.298626,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211219109,
+    "date": "03/12 10:40:19",
+    "video_time": 361.68105,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211257140,
+    "date": "03/12 10:40:57",
+    "video_time": 361.693718,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211281628,
+    "date": "03/12 10:41:21",
+    "video_time": 385.445489,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211295352,
+    "date": "03/12 10:41:35",
+    "video_time": 385.494592,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211338328,
+    "date": "03/12 10:42:18",
+    "video_time": 428,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211338328,
+    "date": "03/12 10:42:18",
+    "video_time": 428.280496,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211344237,
+    "date": "03/12 10:42:24",
+    "video_time": 410,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211344237,
+    "date": "03/12 10:42:24",
+    "video_time": 410.51849,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211345540,
+    "date": "03/12 10:42:25",
+    "video_time": 399.995798,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211347292,
+    "date": "03/12 10:42:27",
+    "video_time": 400,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211347292,
+    "date": "03/12 10:42:27",
+    "video_time": 400.189629,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211416530,
+    "date": "03/12 10:43:36",
+    "video_time": 408,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211434858,
+    "date": "03/12 10:43:54",
+    "video_time": 426,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211434858,
+    "date": "03/12 10:43:54",
+    "video_time": 426.280323,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211435488,
+    "date": "03/12 10:43:55",
+    "video_time": 413,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211435488,
+    "date": "03/12 10:43:55",
+    "video_time": 413.000034,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211438508,
+    "date": "03/12 10:43:58",
+    "video_time": 417.863137,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211573993,
+    "date": "03/12 10:46:13",
+    "video_time": 417.952902,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211589745,
+    "date": "03/12 10:46:29",
+    "video_time": 433.395347,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211614786,
+    "date": "03/12 10:46:54",
+    "video_time": 433.471816,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211657488,
+    "date": "03/12 10:47:37",
+    "video_time": 475.782131,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211660165,
+    "date": "03/12 10:47:40",
+    "video_time": 476,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211660165,
+    "date": "03/12 10:47:40",
+    "video_time": 476.006266,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211667306,
+    "date": "03/12 10:47:47",
+    "video_time": 449.577095,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211736714,
+    "date": "03/12 10:48:56",
+    "video_time": 449.614135,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211746849,
+    "date": "03/12 10:49:06",
+    "video_time": 459,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211746849,
+    "date": "03/12 10:49:06",
+    "video_time": 459.552306,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211751219,
+    "date": "03/12 10:49:11",
+    "video_time": 481.668705,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211778960,
+    "date": "03/12 10:49:38",
+    "video_time": 481.755279,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211812370,
+    "date": "03/12 10:50:12",
+    "video_time": 514,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211812370,
+    "date": "03/12 10:50:12",
+    "video_time": 514.809685,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211814879,
+    "date": "03/12 10:50:14",
+    "video_time": 525,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211814879,
+    "date": "03/12 10:50:14",
+    "video_time": 525.799609,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211816231,
+    "date": "03/12 10:50:16",
+    "video_time": 535,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211816231,
+    "date": "03/12 10:50:16",
+    "video_time": 535.999819,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211818553,
+    "date": "03/12 10:50:18",
+    "video_time": 546,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211818553,
+    "date": "03/12 10:50:18",
+    "video_time": 546.52787,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211845765,
+    "date": "03/12 10:50:45",
+    "video_time": 562.781338,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211884125,
+    "date": "03/12 10:51:24",
+    "video_time": 562.969354,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211898146,
+    "date": "03/12 10:51:38",
+    "video_time": 576,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211898146,
+    "date": "03/12 10:51:38",
+    "video_time": 576.056562,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211899130,
+    "date": "03/12 10:51:39",
+    "video_time": 586,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211899130,
+    "date": "03/12 10:51:39",
+    "video_time": 586.472455,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211900414,
+    "date": "03/12 10:51:40",
+    "video_time": 596,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211900414,
+    "date": "03/12 10:51:40",
+    "video_time": 596.475848,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211901616,
+    "date": "03/12 10:51:41",
+    "video_time": 606,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211901616,
+    "date": "03/12 10:51:41",
+    "video_time": 606.735833,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211902580,
+    "date": "03/12 10:51:42",
+    "video_time": 616,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211902580,
+    "date": "03/12 10:51:42",
+    "video_time": 616.738134,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211905097,
+    "date": "03/12 10:51:45",
+    "video_time": 627,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211905097,
+    "date": "03/12 10:51:45",
+    "video_time": 627.783017,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211908984,
+    "date": "03/12 10:51:48",
+    "video_time": 640,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211908984,
+    "date": "03/12 10:51:48",
+    "video_time": 640.381576,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211912915,
+    "date": "03/12 10:51:52",
+    "video_time": 653,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211912915,
+    "date": "03/12 10:51:52",
+    "video_time": 653.67642,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211924066,
+    "date": "03/12 10:52:04",
+    "video_time": 673,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211924066,
+    "date": "03/12 10:52:04",
+    "video_time": 673.290414,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211925329,
+    "date": "03/12 10:52:05",
+    "video_time": 663,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211925329,
+    "date": "03/12 10:52:05",
+    "video_time": 663.480712,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211925913,
+    "date": "03/12 10:52:05",
+    "video_time": 653,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211925913,
+    "date": "03/12 10:52:05",
+    "video_time": 653.215334,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211926579,
+    "date": "03/12 10:52:06",
+    "video_time": 643,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211926579,
+    "date": "03/12 10:52:06",
+    "video_time": 643,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211929782,
+    "date": "03/12 10:52:09",
+    "video_time": 635,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211929782,
+    "date": "03/12 10:52:09",
+    "video_time": 635.865456,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211949886,
+    "date": "03/12 10:52:29",
+    "video_time": 664.320167,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211963256,
+    "date": "03/12 10:52:43",
+    "video_time": 664.496977,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710211978302,
+    "date": "03/12 10:52:58",
+    "video_time": 679.366014,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710211980019,
+    "date": "03/12 10:53:00",
+    "video_time": 679,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211980019,
+    "date": "03/12 10:53:00",
+    "video_time": 679.551693,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211990569,
+    "date": "03/12 10:53:10",
+    "video_time": 675,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710211990569,
+    "date": "03/12 10:53:10",
+    "video_time": 675.294602,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212012628,
+    "date": "03/12 10:53:32",
+    "video_time": 705,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212012628,
+    "date": "03/12 10:53:32",
+    "video_time": 705.712313,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212015915,
+    "date": "03/12 10:53:35",
+    "video_time": 718,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212015915,
+    "date": "03/12 10:53:35",
+    "video_time": 718.140279,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212018920,
+    "date": "03/12 10:53:38",
+    "video_time": 730,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212018920,
+    "date": "03/12 10:53:38",
+    "video_time": 730.326919,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212030048,
+    "date": "03/12 10:53:50",
+    "video_time": 730,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212030048,
+    "date": "03/12 10:53:50",
+    "video_time": 730.832432,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212033101,
+    "date": "03/12 10:53:53",
+    "video_time": 742,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212033101,
+    "date": "03/12 10:53:53",
+    "video_time": 742.593676,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212035131,
+    "date": "03/12 10:53:55",
+    "video_time": 753,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212035131,
+    "date": "03/12 10:53:55",
+    "video_time": 753.559994,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212037549,
+    "date": "03/12 10:53:57",
+    "video_time": 764,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212037549,
+    "date": "03/12 10:53:57",
+    "video_time": 764.52854,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212039697,
+    "date": "03/12 10:53:59",
+    "video_time": 775,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212039697,
+    "date": "03/12 10:53:59",
+    "video_time": 775.521771,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212041365,
+    "date": "03/12 10:54:01",
+    "video_time": 786,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212041365,
+    "date": "03/12 10:54:01",
+    "video_time": 786.264937,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212044065,
+    "date": "03/12 10:54:04",
+    "video_time": 797,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212044065,
+    "date": "03/12 10:54:04",
+    "video_time": 797.775225,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212049715,
+    "date": "03/12 10:54:09",
+    "video_time": 812,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212049715,
+    "date": "03/12 10:54:09",
+    "video_time": 812.00374,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212052945,
+    "date": "03/12 10:54:12",
+    "video_time": 824,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212052945,
+    "date": "03/12 10:54:12",
+    "video_time": 824.858721,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212053929,
+    "date": "03/12 10:54:13",
+    "video_time": 834,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212053929,
+    "date": "03/12 10:54:13",
+    "video_time": 834.734873,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212059728,
+    "date": "03/12 10:54:19",
+    "video_time": 848,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212059728,
+    "date": "03/12 10:54:19",
+    "video_time": 848.982986,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212066881,
+    "date": "03/12 10:54:26",
+    "video_time": 844,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212066881,
+    "date": "03/12 10:54:26",
+    "video_time": 844.603515,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212072179,
+    "date": "03/12 10:54:32",
+    "video_time": 839,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212072179,
+    "date": "03/12 10:54:32",
+    "video_time": 839.003666,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212075796,
+    "date": "03/12 10:54:35",
+    "video_time": 831.861174,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710212084940,
+    "date": "03/12 10:54:44",
+    "video_time": 831,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212084940,
+    "date": "03/12 10:54:44",
+    "video_time": 831.951623,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212092580,
+    "date": "03/12 10:54:52",
+    "video_time": 831,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212092580,
+    "date": "03/12 10:54:52",
+    "video_time": 831.951623,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212093468,
+    "date": "03/12 10:54:53",
+    "video_time": 831,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212093468,
+    "date": "03/12 10:54:53",
+    "video_time": 831.951623,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212095382,
+    "date": "03/12 10:54:55",
+    "video_time": 831,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212095382,
+    "date": "03/12 10:54:55",
+    "video_time": 831.951623,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212101435,
+    "date": "03/12 10:55:01",
+    "video_time": 560.81712,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710212113599,
+    "date": "03/12 10:55:13",
+    "video_time": 561,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212113599,
+    "date": "03/12 10:55:13",
+    "video_time": 561.031348,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212115397,
+    "date": "03/12 10:55:15",
+    "video_time": 560.263563,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710212148951,
+    "date": "03/12 10:55:48",
+    "video_time": 560,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212148951,
+    "date": "03/12 10:55:48",
+    "video_time": 560.315215,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212151179,
+    "date": "03/12 10:55:51",
+    "video_time": 845,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710212156618,
+    "date": "03/12 10:55:56",
+    "video_time": 850,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212156618,
+    "date": "03/12 10:55:56",
+    "video_time": 850.269704,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212169178,
+    "date": "03/12 10:56:09",
+    "video_time": 870,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212169178,
+    "date": "03/12 10:56:09",
+    "video_time": 870.830892,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212170527,
+    "date": "03/12 10:56:10",
+    "video_time": 880,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212170527,
+    "date": "03/12 10:56:10",
+    "video_time": 880.484989,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212171912,
+    "date": "03/12 10:56:11",
+    "video_time": 890,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212171912,
+    "date": "03/12 10:56:11",
+    "video_time": 890.736327,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212174395,
+    "date": "03/12 10:56:14",
+    "video_time": 902,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212174395,
+    "date": "03/12 10:56:14",
+    "video_time": 902.068297,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212177828,
+    "date": "03/12 10:56:17",
+    "video_time": 914,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212177828,
+    "date": "03/12 10:56:17",
+    "video_time": 914.597266,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212180080,
+    "date": "03/12 10:56:20",
+    "video_time": 925,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212180080,
+    "date": "03/12 10:56:20",
+    "video_time": 925.821552,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212181312,
+    "date": "03/12 10:56:21",
+    "video_time": 936,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212181312,
+    "date": "03/12 10:56:21",
+    "video_time": 936.000128,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212188248,
+    "date": "03/12 10:56:28",
+    "video_time": 952,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212188248,
+    "date": "03/12 10:56:28",
+    "video_time": 952.055158,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212189728,
+    "date": "03/12 10:56:29",
+    "video_time": 962,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212189728,
+    "date": "03/12 10:56:29",
+    "video_time": 962.728741,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212191649,
+    "date": "03/12 10:56:31",
+    "video_time": 973,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212191649,
+    "date": "03/12 10:56:31",
+    "video_time": 973.541339,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212194861,
+    "date": "03/12 10:56:34",
+    "video_time": 985,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212194861,
+    "date": "03/12 10:56:34",
+    "video_time": 985.850269,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212203812,
+    "date": "03/12 10:56:43",
+    "video_time": 1003,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212203812,
+    "date": "03/12 10:56:43",
+    "video_time": 1003.16416,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212207129,
+    "date": "03/12 10:56:47",
+    "video_time": 991,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212207129,
+    "date": "03/12 10:56:47",
+    "video_time": 991.857175,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212209080,
+    "date": "03/12 10:56:49",
+    "video_time": 972,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212209080,
+    "date": "03/12 10:56:49",
+    "video_time": 972.524649,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212225934,
+    "date": "03/12 10:57:05",
+    "video_time": 1003,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212225934,
+    "date": "03/12 10:57:05",
+    "video_time": 1003.411512,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212228049,
+    "date": "03/12 10:57:08",
+    "video_time": 997.252817,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710212237199,
+    "date": "03/12 10:57:17",
+    "video_time": 997.449061,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710212245614,
+    "date": "03/12 10:57:25",
+    "video_time": 1005,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212245614,
+    "date": "03/12 10:57:25",
+    "video_time": 1005.700365,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212251099,
+    "date": "03/12 10:57:31",
+    "video_time": 1020,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212251099,
+    "date": "03/12 10:57:31",
+    "video_time": 1020.259105,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212257128,
+    "date": "03/12 10:57:37",
+    "video_time": 1035,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212257128,
+    "date": "03/12 10:57:37",
+    "video_time": 1035.231038,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212265468,
+    "date": "03/12 10:57:45",
+    "video_time": 1052,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212265468,
+    "date": "03/12 10:57:45",
+    "video_time": 1052.642146,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212268750,
+    "date": "03/12 10:57:48",
+    "video_time": 1044.595599,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710212373467,
+    "date": "03/12 10:59:33",
+    "video_time": 1044.787513,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710212379230,
+    "date": "03/12 10:59:39",
+    "video_time": 1049,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212379230,
+    "date": "03/12 10:59:39",
+    "video_time": 1049.683945,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212387728,
+    "date": "03/12 10:59:47",
+    "video_time": 1066,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212387728,
+    "date": "03/12 10:59:47",
+    "video_time": 1066.911157,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212389546,
+    "date": "03/12 10:59:49",
+    "video_time": 1077,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212389546,
+    "date": "03/12 10:59:49",
+    "video_time": 1077.272682,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212438769,
+    "date": "03/12 11:00:38",
+    "video_time": 1135.824626,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710212441117,
+    "date": "03/12 11:00:41",
+    "video_time": 1135,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212441117,
+    "date": "03/12 11:00:41",
+    "video_time": 1135.9422,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212453398,
+    "date": "03/12 11:00:53",
+    "video_time": 1116,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212453398,
+    "date": "03/12 11:00:53",
+    "video_time": 1116,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212476555,
+    "date": "03/12 11:01:16",
+    "video_time": 1132,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710212490794,
+    "date": "03/12 11:01:30",
+    "video_time": 1146,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212490794,
+    "date": "03/12 11:01:30",
+    "video_time": 1146.031004,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212492663,
+    "date": "03/12 11:01:32",
+    "video_time": 1157,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212492663,
+    "date": "03/12 11:01:32",
+    "video_time": 1157.256839,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212493530,
+    "date": "03/12 11:01:33",
+    "video_time": 1167,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212493530,
+    "date": "03/12 11:01:33",
+    "video_time": 1167.46952,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212504604,
+    "date": "03/12 11:01:44",
+    "video_time": 1187.292277,
+    "type": "pause"
+  },
+  {
+    "video": "P1",
+    "time": 1710212602216,
+    "date": "03/12 11:03:22",
+    "video_time": 1187.500036,
+    "type": "play"
+  },
+  {
+    "video": "P1",
+    "time": 1710212610662,
+    "date": "03/12 11:03:30",
+    "video_time": 1195.410641,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710212621014,
+    "date": "03/12 11:03:41",
+    "video_time": 1195,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710212621014,
+    "date": "03/12 11:03:41",
+    "video_time": 1195.637995,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212639194,
+    "date": "03/12 11:03:59",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212639194,
+    "date": "03/12 11:03:59",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212666930,
+    "date": "03/12 11:04:26",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212666930,
+    "date": "03/12 11:04:26",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212723535,
+    "date": "03/12 11:05:23",
+    "video_time": 4,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P1",
+    "time": 1710212723535,
+    "date": "03/12 11:05:23",
+    "video_time": 4.454214,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212736326,
+    "date": "03/12 11:05:36",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212736326,
+    "date": "03/12 11:05:36",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212742017,
+    "date": "03/12 11:05:42",
+    "video_time": 0,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710212748172,
+    "date": "03/12 11:05:48",
+    "video_time": 6,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212748172,
+    "date": "03/12 11:05:48",
+    "video_time": 6.05486,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212748975,
+    "date": "03/12 11:05:48",
+    "video_time": 16,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212748975,
+    "date": "03/12 11:05:48",
+    "video_time": 16.471917,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212753788,
+    "date": "03/12 11:05:53",
+    "video_time": 30,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212753788,
+    "date": "03/12 11:05:53",
+    "video_time": 30.200421,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212781659,
+    "date": "03/12 11:06:21",
+    "video_time": 37,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212781659,
+    "date": "03/12 11:06:21",
+    "video_time": 37.304053,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212795478,
+    "date": "03/12 11:06:35",
+    "video_time": 59.954706,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710212799624,
+    "date": "03/12 11:06:39",
+    "video_time": 60,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212799624,
+    "date": "03/12 11:06:39",
+    "video_time": 60.15951,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212800795,
+    "date": "03/12 11:06:40",
+    "video_time": 50,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710212811497,
+    "date": "03/12 11:06:51",
+    "video_time": 60,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212811497,
+    "date": "03/12 11:06:51",
+    "video_time": 60.56734,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212869326,
+    "date": "03/12 11:07:49",
+    "video_time": 109,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212869326,
+    "date": "03/12 11:07:49",
+    "video_time": 109.578651,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212874630,
+    "date": "03/12 11:07:54",
+    "video_time": 108.997047,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710212928112,
+    "date": "03/12 11:08:48",
+    "video_time": 109.037045,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710212943738,
+    "date": "03/12 11:09:03",
+    "video_time": 123,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212943738,
+    "date": "03/12 11:09:03",
+    "video_time": 123.933428,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212945824,
+    "date": "03/12 11:09:05",
+    "video_time": 134,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212945824,
+    "date": "03/12 11:09:05",
+    "video_time": 134.777292,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212947142,
+    "date": "03/12 11:09:07",
+    "video_time": 144,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212947142,
+    "date": "03/12 11:09:07",
+    "video_time": 144.729296,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212950160,
+    "date": "03/12 11:09:10",
+    "video_time": 156,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212950160,
+    "date": "03/12 11:09:10",
+    "video_time": 156.590021,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212985541,
+    "date": "03/12 11:09:45",
+    "video_time": 180,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212985541,
+    "date": "03/12 11:09:45",
+    "video_time": 180.729725,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212988343,
+    "date": "03/12 11:09:48",
+    "video_time": 192,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212988343,
+    "date": "03/12 11:09:48",
+    "video_time": 192.333996,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212990592,
+    "date": "03/12 11:09:50",
+    "video_time": 203,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212990592,
+    "date": "03/12 11:09:50",
+    "video_time": 203.809473,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212995858,
+    "date": "03/12 11:09:55",
+    "video_time": 217,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710212995858,
+    "date": "03/12 11:09:55",
+    "video_time": 217.453484,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213000089,
+    "date": "03/12 11:10:00",
+    "video_time": 230,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213000089,
+    "date": "03/12 11:10:00",
+    "video_time": 230.662012,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213010455,
+    "date": "03/12 11:10:10",
+    "video_time": 249,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213010455,
+    "date": "03/12 11:10:10",
+    "video_time": 249.774932,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213014274,
+    "date": "03/12 11:10:14",
+    "video_time": 262,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213014274,
+    "date": "03/12 11:10:14",
+    "video_time": 262.151923,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213015938,
+    "date": "03/12 11:10:15",
+    "video_time": 273,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213015938,
+    "date": "03/12 11:10:15",
+    "video_time": 273.259686,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213022391,
+    "date": "03/12 11:10:22",
+    "video_time": 289,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213022391,
+    "date": "03/12 11:10:22",
+    "video_time": 289.304705,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213024539,
+    "date": "03/12 11:10:24",
+    "video_time": 300,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213024539,
+    "date": "03/12 11:10:24",
+    "video_time": 300.799594,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213026224,
+    "date": "03/12 11:10:26",
+    "video_time": 310,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213026224,
+    "date": "03/12 11:10:26",
+    "video_time": 310.999855,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213029741,
+    "date": "03/12 11:10:29",
+    "video_time": 323,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213029741,
+    "date": "03/12 11:10:29",
+    "video_time": 323.155581,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213032093,
+    "date": "03/12 11:10:32",
+    "video_time": 335,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213032093,
+    "date": "03/12 11:10:32",
+    "video_time": 335.069206,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213034058,
+    "date": "03/12 11:10:34",
+    "video_time": 346,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213034058,
+    "date": "03/12 11:10:34",
+    "video_time": 346.286252,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213039975,
+    "date": "03/12 11:10:39",
+    "video_time": 361,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213039975,
+    "date": "03/12 11:10:39",
+    "video_time": 361.514269,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213042473,
+    "date": "03/12 11:10:42",
+    "video_time": 373,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213042473,
+    "date": "03/12 11:10:42",
+    "video_time": 373.069176,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213044638,
+    "date": "03/12 11:10:44",
+    "video_time": 384,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213044638,
+    "date": "03/12 11:10:44",
+    "video_time": 384.803927,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213051061,
+    "date": "03/12 11:10:51",
+    "video_time": 399.777705,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710213105654,
+    "date": "03/12 11:11:45",
+    "video_time": 399.873435,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710213138961,
+    "date": "03/12 11:12:18",
+    "video_time": 399.873435,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710213142339,
+    "date": "03/12 11:12:22",
+    "video_time": 402,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213142339,
+    "date": "03/12 11:12:22",
+    "video_time": 402.897217,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213144093,
+    "date": "03/12 11:12:24",
+    "video_time": 412,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213144093,
+    "date": "03/12 11:12:24",
+    "video_time": 412.992598,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213176838,
+    "date": "03/12 11:12:56",
+    "video_time": 454,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213176838,
+    "date": "03/12 11:12:56",
+    "video_time": 454.354032,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213178622,
+    "date": "03/12 11:12:58",
+    "video_time": 465,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213178622,
+    "date": "03/12 11:12:58",
+    "video_time": 465.000275,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213184575,
+    "date": "03/12 11:13:04",
+    "video_time": 480,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213184575,
+    "date": "03/12 11:13:04",
+    "video_time": 480.25511,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213187291,
+    "date": "03/12 11:13:07",
+    "video_time": 462.066169,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710213242511,
+    "date": "03/12 11:14:02",
+    "video_time": 462.199442,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710213247221,
+    "date": "03/12 11:14:07",
+    "video_time": 466,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213247221,
+    "date": "03/12 11:14:07",
+    "video_time": 466.058024,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213249059,
+    "date": "03/12 11:14:09",
+    "video_time": 477,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213249059,
+    "date": "03/12 11:14:09",
+    "video_time": 477.14217,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213250904,
+    "date": "03/12 11:14:10",
+    "video_time": 481,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213250904,
+    "date": "03/12 11:14:10",
+    "video_time": 481.995167,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213251841,
+    "date": "03/12 11:14:11",
+    "video_time": 491,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213251841,
+    "date": "03/12 11:14:11",
+    "video_time": 491.48088,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213252442,
+    "date": "03/12 11:14:12",
+    "video_time": 501,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213252442,
+    "date": "03/12 11:14:12",
+    "video_time": 501.213674,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213253491,
+    "date": "03/12 11:14:13",
+    "video_time": 511,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213253491,
+    "date": "03/12 11:14:13",
+    "video_time": 511.4755,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213254289,
+    "date": "03/12 11:14:14",
+    "video_time": 521,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213254289,
+    "date": "03/12 11:14:14",
+    "video_time": 521.470124,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213255521,
+    "date": "03/12 11:14:15",
+    "video_time": 531,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213255521,
+    "date": "03/12 11:14:15",
+    "video_time": 531.472593,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213257087,
+    "date": "03/12 11:14:17",
+    "video_time": 541,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213257087,
+    "date": "03/12 11:14:17",
+    "video_time": 541.990553,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213258691,
+    "date": "03/12 11:14:18",
+    "video_time": 552,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213258691,
+    "date": "03/12 11:14:18",
+    "video_time": 552.257255,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213260705,
+    "date": "03/12 11:14:20",
+    "video_time": 563,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213260705,
+    "date": "03/12 11:14:20",
+    "video_time": 563.266941,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213261924,
+    "date": "03/12 11:14:21",
+    "video_time": 573,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213261924,
+    "date": "03/12 11:14:21",
+    "video_time": 573.741034,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213265591,
+    "date": "03/12 11:14:25",
+    "video_time": 586.401836,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710213290635,
+    "date": "03/12 11:14:50",
+    "video_time": 586.546647,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710213298771,
+    "date": "03/12 11:14:58",
+    "video_time": 594,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213298771,
+    "date": "03/12 11:14:58",
+    "video_time": 594.24462,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213299940,
+    "date": "03/12 11:14:59",
+    "video_time": 604,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213299940,
+    "date": "03/12 11:14:59",
+    "video_time": 604.736395,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213303388,
+    "date": "03/12 11:15:03",
+    "video_time": 616,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213303388,
+    "date": "03/12 11:15:03",
+    "video_time": 616.600266,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213304724,
+    "date": "03/12 11:15:04",
+    "video_time": 626,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213304724,
+    "date": "03/12 11:15:04",
+    "video_time": 626.732067,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213305805,
+    "date": "03/12 11:15:05",
+    "video_time": 636,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213305805,
+    "date": "03/12 11:15:05",
+    "video_time": 636.740297,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213306908,
+    "date": "03/12 11:15:06",
+    "video_time": 646,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213306908,
+    "date": "03/12 11:15:06",
+    "video_time": 646.479732,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213308007,
+    "date": "03/12 11:15:08",
+    "video_time": 656,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213308007,
+    "date": "03/12 11:15:08",
+    "video_time": 656.736046,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213328088,
+    "date": "03/12 11:15:28",
+    "video_time": 685,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213328088,
+    "date": "03/12 11:15:28",
+    "video_time": 685.862628,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213331688,
+    "date": "03/12 11:15:31",
+    "video_time": 697.864626,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710213334074,
+    "date": "03/12 11:15:34",
+    "video_time": 698.030062,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710213347221,
+    "date": "03/12 11:15:47",
+    "video_time": 711,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213347221,
+    "date": "03/12 11:15:47",
+    "video_time": 711.04311,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213348739,
+    "date": "03/12 11:15:48",
+    "video_time": 707.01202,
+    "type": "pause"
+  },
+  {
+    "video": "P8",
+    "time": 1710213359856,
+    "date": "03/12 11:15:59",
+    "video_time": 707.174007,
+    "type": "play"
+  },
+  {
+    "video": "P8",
+    "time": 1710213365822,
+    "date": "03/12 11:16:05",
+    "video_time": 713,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213365822,
+    "date": "03/12 11:16:05",
+    "video_time": 713.035428,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213370724,
+    "date": "03/12 11:16:10",
+    "video_time": 727,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213370724,
+    "date": "03/12 11:16:10",
+    "video_time": 727.462529,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213375955,
+    "date": "03/12 11:16:15",
+    "video_time": 741,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213375955,
+    "date": "03/12 11:16:15",
+    "video_time": 741.725697,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213391208,
+    "date": "03/12 11:16:31",
+    "video_time": 746,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213391208,
+    "date": "03/12 11:16:31",
+    "video_time": 746.289381,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213392022,
+    "date": "03/12 11:16:32",
+    "video_time": 756,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213392022,
+    "date": "03/12 11:16:32",
+    "video_time": 756.21201,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213394272,
+    "date": "03/12 11:16:34",
+    "video_time": 768,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213394272,
+    "date": "03/12 11:16:34",
+    "video_time": 768.066089,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213398798,
+    "date": "03/12 11:16:38",
+    "video_time": 781,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213398798,
+    "date": "03/12 11:16:38",
+    "video_time": 781.928414,
+    "type": "jump"
+  },
+  {
+    "video": "P8",
+    "time": 1710213426570,
+    "date": "03/12 11:17:06",
+    "video_time": 793.733,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213452415,
+    "date": "03/12 11:17:32",
+    "video_time": 793,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213452415,
+    "date": "03/12 11:17:32",
+    "video_time": 793.733,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213472280,
+    "date": "03/12 11:17:52",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213472280,
+    "date": "03/12 11:17:52",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213475430,
+    "date": "03/12 11:17:55",
+    "video_time": 68.809106,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213477213,
+    "date": "03/12 11:17:57",
+    "video_time": 68,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213477213,
+    "date": "03/12 11:17:57",
+    "video_time": 68.867167,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213478567,
+    "date": "03/12 11:17:58",
+    "video_time": 67.999983,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213496687,
+    "date": "03/12 11:18:16",
+    "video_time": 68,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213496687,
+    "date": "03/12 11:18:16",
+    "video_time": 68.052488,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213499133,
+    "date": "03/12 11:18:19",
+    "video_time": 95.521181,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213502071,
+    "date": "03/12 11:18:22",
+    "video_time": 95.703492,
+    "type": "play"
+  },
+  {
+    "video": "P2",
+    "time": 1710213509485,
+    "date": "03/12 11:18:29",
+    "video_time": 102.895411,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213515953,
+    "date": "03/12 11:18:35",
+    "video_time": 103,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213515953,
+    "date": "03/12 11:18:35",
+    "video_time": 103.145001,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213518367,
+    "date": "03/12 11:18:38",
+    "video_time": 247.259206,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213540270,
+    "date": "03/12 11:19:00",
+    "video_time": 247,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213540270,
+    "date": "03/12 11:19:00",
+    "video_time": 247.332219,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213543556,
+    "date": "03/12 11:19:03",
+    "video_time": 378.254687,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213548613,
+    "date": "03/12 11:19:08",
+    "video_time": 378.435023,
+    "type": "play"
+  },
+  {
+    "video": "P2",
+    "time": 1710213556370,
+    "date": "03/12 11:19:16",
+    "video_time": 386.147261,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213576968,
+    "date": "03/12 11:19:36",
+    "video_time": 386,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213576968,
+    "date": "03/12 11:19:36",
+    "video_time": 386.208769,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213579167,
+    "date": "03/12 11:19:39",
+    "video_time": 429.269774,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213591514,
+    "date": "03/12 11:19:51",
+    "video_time": 429,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213591514,
+    "date": "03/12 11:19:51",
+    "video_time": 429.507556,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213592799,
+    "date": "03/12 11:19:52",
+    "video_time": 467.003335,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213617788,
+    "date": "03/12 11:20:17",
+    "video_time": 467,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213617788,
+    "date": "03/12 11:20:17",
+    "video_time": 467.060891,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213626820,
+    "date": "03/12 11:20:26",
+    "video_time": 502.45655,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213637069,
+    "date": "03/12 11:20:37",
+    "video_time": 502,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213637069,
+    "date": "03/12 11:20:37",
+    "video_time": 502.629293,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213639483,
+    "date": "03/12 11:20:39",
+    "video_time": 558.815922,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213650700,
+    "date": "03/12 11:20:50",
+    "video_time": 559,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213650700,
+    "date": "03/12 11:20:50",
+    "video_time": 559.053179,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213653449,
+    "date": "03/12 11:20:53",
+    "video_time": 559,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213653449,
+    "date": "03/12 11:20:53",
+    "video_time": 559.053179,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213656435,
+    "date": "03/12 11:20:56",
+    "video_time": 841.528731,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213666248,
+    "date": "03/12 11:21:06",
+    "video_time": 841.638034,
+    "type": "play"
+  },
+  {
+    "video": "P2",
+    "time": 1710213674040,
+    "date": "03/12 11:21:14",
+    "video_time": 849.349093,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213675785,
+    "date": "03/12 11:21:15",
+    "video_time": 849,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213675785,
+    "date": "03/12 11:21:15",
+    "video_time": 849.428573,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213681051,
+    "date": "03/12 11:21:21",
+    "video_time": 844,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213681051,
+    "date": "03/12 11:21:21",
+    "video_time": 844.455055,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213684625,
+    "date": "03/12 11:21:24",
+    "video_time": 1057.270338,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213708055,
+    "date": "03/12 11:21:48",
+    "video_time": 1057,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213708055,
+    "date": "03/12 11:21:48",
+    "video_time": 1057.545992,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213711354,
+    "date": "03/12 11:21:51",
+    "video_time": 1147.522805,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213715181,
+    "date": "03/12 11:21:55",
+    "video_time": 1147.704605,
+    "type": "play"
+  },
+  {
+    "video": "P2",
+    "time": 1710213720586,
+    "date": "03/12 11:22:00",
+    "video_time": 1153.012774,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213786402,
+    "date": "03/12 11:23:06",
+    "video_time": 1153,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213786402,
+    "date": "03/12 11:23:06",
+    "video_time": 1153.107447,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213788370,
+    "date": "03/12 11:23:08",
+    "video_time": 1183.268804,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213812798,
+    "date": "03/12 11:23:32",
+    "video_time": 1183,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213812798,
+    "date": "03/12 11:23:32",
+    "video_time": 1183.428535,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213815748,
+    "date": "03/12 11:23:35",
+    "video_time": 1278.000322,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213825065,
+    "date": "03/12 11:23:45",
+    "video_time": 1278,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213825065,
+    "date": "03/12 11:23:45",
+    "video_time": 1278.205134,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213827366,
+    "date": "03/12 11:23:47",
+    "video_time": 1353.012373,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213856848,
+    "date": "03/12 11:24:16",
+    "video_time": 1353,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213856848,
+    "date": "03/12 11:24:16",
+    "video_time": 1353.131054,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213860737,
+    "date": "03/12 11:24:20",
+    "video_time": 1434.998752,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213873015,
+    "date": "03/12 11:24:33",
+    "video_time": 1435,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213873015,
+    "date": "03/12 11:24:33",
+    "video_time": 1435.121541,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213876631,
+    "date": "03/12 11:24:36",
+    "video_time": 1562.284968,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213908952,
+    "date": "03/12 11:25:08",
+    "video_time": 1562,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213908952,
+    "date": "03/12 11:25:08",
+    "video_time": 1562.492402,
+    "type": "jump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213912063,
+    "date": "03/12 11:25:12",
+    "video_time": 1664.269009,
+    "type": "pause"
+  },
+  {
+    "video": "P2",
+    "time": 1710213926131,
+    "date": "03/12 11:25:26",
+    "video_time": 1664,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P2",
+    "time": 1710213926131,
+    "date": "03/12 11:25:26",
+    "video_time": 1664.420895,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213938228,
+    "date": "03/12 11:25:38",
+    "video_time": 1680,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213938228,
+    "date": "03/12 11:25:38",
+    "video_time": 1680,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213965735,
+    "date": "03/12 11:26:05",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213965735,
+    "date": "03/12 11:26:05",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213970918,
+    "date": "03/12 11:26:10",
+    "video_time": 187,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213970918,
+    "date": "03/12 11:26:10",
+    "video_time": 187.928941,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213977770,
+    "date": "03/12 11:26:17",
+    "video_time": 177.514269,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710213983724,
+    "date": "03/12 11:26:23",
+    "video_time": 177,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213983724,
+    "date": "03/12 11:26:23",
+    "video_time": 177.557538,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710213986235,
+    "date": "03/12 11:26:26",
+    "video_time": 93.997114,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214027103,
+    "date": "03/12 11:27:07",
+    "video_time": 94,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214027103,
+    "date": "03/12 11:27:07",
+    "video_time": 94.101712,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214028649,
+    "date": "03/12 11:27:08",
+    "video_time": 202.263644,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214042751,
+    "date": "03/12 11:27:22",
+    "video_time": 202,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214042751,
+    "date": "03/12 11:27:22",
+    "video_time": 202.348344,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214045915,
+    "date": "03/12 11:27:25",
+    "video_time": 309.540265,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214056252,
+    "date": "03/12 11:27:36",
+    "video_time": 309,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214056252,
+    "date": "03/12 11:27:36",
+    "video_time": 309.639636,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214058135,
+    "date": "03/12 11:27:38",
+    "video_time": 345.270157,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214067038,
+    "date": "03/12 11:27:47",
+    "video_time": 345,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214067038,
+    "date": "03/12 11:27:47",
+    "video_time": 345.320386,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214068965,
+    "date": "03/12 11:27:48",
+    "video_time": 381.999732,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214074047,
+    "date": "03/12 11:27:54",
+    "video_time": 382,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214074047,
+    "date": "03/12 11:27:54",
+    "video_time": 382.249061,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214076404,
+    "date": "03/12 11:27:56",
+    "video_time": 455.996652,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214085917,
+    "date": "03/12 11:28:05",
+    "video_time": 456,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214085917,
+    "date": "03/12 11:28:05",
+    "video_time": 456.158247,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214088757,
+    "date": "03/12 11:28:08",
+    "video_time": 505.328054,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214100749,
+    "date": "03/12 11:28:20",
+    "video_time": 505,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214100749,
+    "date": "03/12 11:28:20",
+    "video_time": 505.567468,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214102998,
+    "date": "03/12 11:28:22",
+    "video_time": 588.002631,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214114464,
+    "date": "03/12 11:28:34",
+    "video_time": 588,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214114464,
+    "date": "03/12 11:28:34",
+    "video_time": 588.20466,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214117115,
+    "date": "03/12 11:28:37",
+    "video_time": 708.002633,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214127650,
+    "date": "03/12 11:28:47",
+    "video_time": 708,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214127650,
+    "date": "03/12 11:28:47",
+    "video_time": 708.071522,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214131702,
+    "date": "03/12 11:28:51",
+    "video_time": 811.009695,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214139850,
+    "date": "03/12 11:28:59",
+    "video_time": 811,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214139850,
+    "date": "03/12 11:28:59",
+    "video_time": 811.130977,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214141147,
+    "date": "03/12 11:29:01",
+    "video_time": 868.005845,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214152985,
+    "date": "03/12 11:29:12",
+    "video_time": 868,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214152985,
+    "date": "03/12 11:29:12",
+    "video_time": 868.114371,
+    "type": "jump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214154750,
+    "date": "03/12 11:29:14",
+    "video_time": 882.00401,
+    "type": "pause"
+  },
+  {
+    "video": "P3",
+    "time": 1710214180163,
+    "date": "03/12 11:29:40",
+    "video_time": 882,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P3",
+    "time": 1710214180163,
+    "date": "03/12 11:29:40",
+    "video_time": 882.096325,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214192112,
+    "date": "03/12 11:29:52",
+    "video_time": 891,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214192112,
+    "date": "03/12 11:29:52",
+    "video_time": 891,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214205798,
+    "date": "03/12 11:30:05",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214205798,
+    "date": "03/12 11:30:05",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214210669,
+    "date": "03/12 11:30:10",
+    "video_time": 77.412954,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214211687,
+    "date": "03/12 11:30:11",
+    "video_time": 77,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214211687,
+    "date": "03/12 11:30:11",
+    "video_time": 77.630555,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214213122,
+    "date": "03/12 11:30:13",
+    "video_time": 74.997086,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214219899,
+    "date": "03/12 11:30:19",
+    "video_time": 75,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214219899,
+    "date": "03/12 11:30:19",
+    "video_time": 75.038288,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214222351,
+    "date": "03/12 11:30:22",
+    "video_time": 109.803185,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214224422,
+    "date": "03/12 11:30:24",
+    "video_time": 110,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214224422,
+    "date": "03/12 11:30:24",
+    "video_time": 110.021362,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214225681,
+    "date": "03/12 11:30:25",
+    "video_time": 108.742577,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214250423,
+    "date": "03/12 11:30:50",
+    "video_time": 108,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214250423,
+    "date": "03/12 11:30:50",
+    "video_time": 108.839781,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214253863,
+    "date": "03/12 11:30:53",
+    "video_time": 244.060706,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214280650,
+    "date": "03/12 11:31:20",
+    "video_time": 244,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214280650,
+    "date": "03/12 11:31:20",
+    "video_time": 244.130131,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214282326,
+    "date": "03/12 11:31:22",
+    "video_time": 258.000049,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214286361,
+    "date": "03/12 11:31:26",
+    "video_time": 258.239695,
+    "type": "play"
+  },
+  {
+    "video": "P4",
+    "time": 1710214294520,
+    "date": "03/12 11:31:34",
+    "video_time": 266.20741,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214304952,
+    "date": "03/12 11:31:44",
+    "video_time": 266,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214304952,
+    "date": "03/12 11:31:44",
+    "video_time": 266.401938,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214307635,
+    "date": "03/12 11:31:47",
+    "video_time": 289.074337,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214324922,
+    "date": "03/12 11:32:04",
+    "video_time": 289,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214324922,
+    "date": "03/12 11:32:04",
+    "video_time": 289.154897,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214327834,
+    "date": "03/12 11:32:07",
+    "video_time": 410.001158,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214341451,
+    "date": "03/12 11:32:21",
+    "video_time": 410,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214341451,
+    "date": "03/12 11:32:21",
+    "video_time": 410.144763,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214345840,
+    "date": "03/12 11:32:25",
+    "video_time": 682.142271,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214350855,
+    "date": "03/12 11:32:30",
+    "video_time": 682,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214350855,
+    "date": "03/12 11:32:30",
+    "video_time": 682.180886,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214352050,
+    "date": "03/12 11:32:32",
+    "video_time": 744.00247,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214369052,
+    "date": "03/12 11:32:49",
+    "video_time": 744,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214369052,
+    "date": "03/12 11:32:49",
+    "video_time": 744.058903,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214370916,
+    "date": "03/12 11:32:50",
+    "video_time": 790.998794,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214381837,
+    "date": "03/12 11:33:01",
+    "video_time": 791,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214381837,
+    "date": "03/12 11:33:01",
+    "video_time": 791.186219,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214383470,
+    "date": "03/12 11:33:03",
+    "video_time": 818.003965,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214407090,
+    "date": "03/12 11:33:27",
+    "video_time": 818,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214407090,
+    "date": "03/12 11:33:27",
+    "video_time": 818.234974,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214410338,
+    "date": "03/12 11:33:30",
+    "video_time": 920.284965,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214421407,
+    "date": "03/12 11:33:41",
+    "video_time": 920,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214421407,
+    "date": "03/12 11:33:41",
+    "video_time": 920.313933,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214423238,
+    "date": "03/12 11:33:43",
+    "video_time": 942.008053,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214428234,
+    "date": "03/12 11:33:48",
+    "video_time": 942,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214428234,
+    "date": "03/12 11:33:48",
+    "video_time": 942.175103,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214429839,
+    "date": "03/12 11:33:49",
+    "video_time": 1037.99692,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214447554,
+    "date": "03/12 11:34:07",
+    "video_time": 1038,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214447554,
+    "date": "03/12 11:34:07",
+    "video_time": 1038.050174,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214448818,
+    "date": "03/12 11:34:08",
+    "video_time": 1098.74346,
+    "type": "pause"
+  },
+  {
+    "video": "P4",
+    "time": 1710214463972,
+    "date": "03/12 11:34:23",
+    "video_time": 1098,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214463972,
+    "date": "03/12 11:34:23",
+    "video_time": 1098.884809,
+    "type": "jump"
+  },
+  {
+    "video": "P4",
+    "time": 1710214466737,
+    "date": "03/12 11:34:26",
+    "video_time": 1165.32083,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214481186,
+    "date": "03/12 11:34:41",
+    "video_time": 1165,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214481186,
+    "date": "03/12 11:34:41",
+    "video_time": 1165.469641,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214488607,
+    "date": "03/12 11:34:48",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214488607,
+    "date": "03/12 11:34:48",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214490686,
+    "date": "03/12 11:34:50",
+    "video_time": 1,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214490686,
+    "date": "03/12 11:34:50",
+    "video_time": 1.828373,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214494938,
+    "date": "03/12 11:34:54",
+    "video_time": 3,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214494938,
+    "date": "03/12 11:34:54",
+    "video_time": 3.91893,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214496818,
+    "date": "03/12 11:34:56",
+    "video_time": 36.54212,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214513068,
+    "date": "03/12 11:35:13",
+    "video_time": 36,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214513068,
+    "date": "03/12 11:35:13",
+    "video_time": 36.67246,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214515000,
+    "date": "03/12 11:35:15",
+    "video_time": 114.998833,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214522251,
+    "date": "03/12 11:35:22",
+    "video_time": 115,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214522251,
+    "date": "03/12 11:35:22",
+    "video_time": 115.22127,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214524000,
+    "date": "03/12 11:35:24",
+    "video_time": 167.529045,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214531125,
+    "date": "03/12 11:35:31",
+    "video_time": 167,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214531125,
+    "date": "03/12 11:35:31",
+    "video_time": 167.591759,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214532426,
+    "date": "03/12 11:35:32",
+    "video_time": 220.001109,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214546923,
+    "date": "03/12 11:35:46",
+    "video_time": 220,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214546923,
+    "date": "03/12 11:35:46",
+    "video_time": 220.047157,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214548835,
+    "date": "03/12 11:35:48",
+    "video_time": 276.285274,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214558500,
+    "date": "03/12 11:35:58",
+    "video_time": 276,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214558500,
+    "date": "03/12 11:35:58",
+    "video_time": 276.428452,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214559953,
+    "date": "03/12 11:35:59",
+    "video_time": 341.741334,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214582468,
+    "date": "03/12 11:36:22",
+    "video_time": 341,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214582468,
+    "date": "03/12 11:36:22",
+    "video_time": 341.988614,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214585988,
+    "date": "03/12 11:36:25",
+    "video_time": 497.797443,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214590568,
+    "date": "03/12 11:36:30",
+    "video_time": 498,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214590568,
+    "date": "03/12 11:36:30",
+    "video_time": 498.025625,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214592505,
+    "date": "03/12 11:36:32",
+    "video_time": 514.286919,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214596351,
+    "date": "03/12 11:36:36",
+    "video_time": 514,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214596351,
+    "date": "03/12 11:36:36",
+    "video_time": 514.299963,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214597684,
+    "date": "03/12 11:36:37",
+    "video_time": 586.002257,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214602168,
+    "date": "03/12 11:36:42",
+    "video_time": 586,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214602168,
+    "date": "03/12 11:36:42",
+    "video_time": 586.10305,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214603236,
+    "date": "03/12 11:36:43",
+    "video_time": 615.742468,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214607380,
+    "date": "03/12 11:36:47",
+    "video_time": 615.931577,
+    "type": "play"
+  },
+  {
+    "video": "P5",
+    "time": 1710214609533,
+    "date": "03/12 11:36:49",
+    "video_time": 618.05744,
+    "type": "pause"
+  },
+  {
+    "video": "P5",
+    "time": 1710214621756,
+    "date": "03/12 11:37:01",
+    "video_time": 618,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214621756,
+    "date": "03/12 11:37:01",
+    "video_time": 618.095716,
+    "type": "jump"
+  },
+  {
+    "video": "P5",
+    "time": 1710214623033,
+    "date": "03/12 11:37:03",
+    "video_time": 668.003893,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214646334,
+    "date": "03/12 11:37:26",
+    "video_time": 668,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214646334,
+    "date": "03/12 11:37:26",
+    "video_time": 668.092783,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214651543,
+    "date": "03/12 11:37:31",
+    "video_time": 0,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214651543,
+    "date": "03/12 11:37:31",
+    "video_time": 0,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214654518,
+    "date": "03/12 11:37:34",
+    "video_time": 78.259192,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214661058,
+    "date": "03/12 11:37:41",
+    "video_time": 78,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214661058,
+    "date": "03/12 11:37:41",
+    "video_time": 78.365986,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214662404,
+    "date": "03/12 11:37:42",
+    "video_time": 82.9967,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214665934,
+    "date": "03/12 11:37:45",
+    "video_time": 83,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214665934,
+    "date": "03/12 11:37:45",
+    "video_time": 83.18204,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214667354,
+    "date": "03/12 11:37:47",
+    "video_time": 93.732458,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214672683,
+    "date": "03/12 11:37:52",
+    "video_time": 93,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214672683,
+    "date": "03/12 11:37:52",
+    "video_time": 93.815201,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214673901,
+    "date": "03/12 11:37:53",
+    "video_time": 182.002391,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214678353,
+    "date": "03/12 11:37:58",
+    "video_time": 182,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214678353,
+    "date": "03/12 11:37:58",
+    "video_time": 182.100732,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214681022,
+    "date": "03/12 11:38:01",
+    "video_time": 342.006125,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214691616,
+    "date": "03/12 11:38:11",
+    "video_time": 342,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214691616,
+    "date": "03/12 11:38:11",
+    "video_time": 342.049351,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214692983,
+    "date": "03/12 11:38:12",
+    "video_time": 351.005065,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214705487,
+    "date": "03/12 11:38:25",
+    "video_time": 351,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214705487,
+    "date": "03/12 11:38:25",
+    "video_time": 351.139352,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214707237,
+    "date": "03/12 11:38:27",
+    "video_time": 375.00134,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214717070,
+    "date": "03/12 11:38:37",
+    "video_time": 375,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214717070,
+    "date": "03/12 11:38:37",
+    "video_time": 375.238712,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214719451,
+    "date": "03/12 11:38:39",
+    "video_time": 434.006729,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214730857,
+    "date": "03/12 11:38:50",
+    "video_time": 434,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214730857,
+    "date": "03/12 11:38:50",
+    "video_time": 434.125078,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214732005,
+    "date": "03/12 11:38:52",
+    "video_time": 469.742816,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214744658,
+    "date": "03/12 11:39:04",
+    "video_time": 469,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214744658,
+    "date": "03/12 11:39:04",
+    "video_time": 469.816298,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214748756,
+    "date": "03/12 11:39:08",
+    "video_time": 540.549057,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214761872,
+    "date": "03/12 11:39:21",
+    "video_time": 540,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214761872,
+    "date": "03/12 11:39:21",
+    "video_time": 540.711142,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214763421,
+    "date": "03/12 11:39:23",
+    "video_time": 582.740606,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214781287,
+    "date": "03/12 11:39:41",
+    "video_time": 582,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214781287,
+    "date": "03/12 11:39:41",
+    "video_time": 582.843125,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214783973,
+    "date": "03/12 11:39:43",
+    "video_time": 678.005695,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214794351,
+    "date": "03/12 11:39:54",
+    "video_time": 678,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214794351,
+    "date": "03/12 11:39:54",
+    "video_time": 678.067372,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214797842,
+    "date": "03/12 11:39:57",
+    "video_time": 796.288492,
+    "type": "pause"
+  },
+  {
+    "video": "P6",
+    "time": 1710214806422,
+    "date": "03/12 11:40:06",
+    "video_time": 796,
+    "type": "beforeJump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214806422,
+    "date": "03/12 11:40:06",
+    "video_time": 796.429758,
+    "type": "jump"
+  },
+  {
+    "video": "P6",
+    "time": 1710214808120,
+    "date": "03/12 11:40:08",
+    "video_time": 821.265501,
+    "type": "pause"
+  }
+]

@@ -1,0 +1,128 @@
+- P1-00:02:23: The user expresses a desire to see the AI's thought process rather than it being a "blind box."
+- P1-00:03:08: The user experiences an error with no clear explanation or guidance on how to resolve it ("出错了。这为什么会报错呢？It’us, not you.").
+- P1-00:03:33: The user is uncertain if they need to regenerate their design ("我需要重新按一下generate吗？").
+- P1-00:03:42: The user's original prompt disappears, leading to confusion ("我原来的prompt去哪了？").
+- P1-00:04:59: The user's desired image does not appear, and there is an issue with image loading ("我的树不见了。怎么会这样？图片加载不出来。").
+- P1-00:05:57: The participant wonders if they can perform other actions while content is being generated.
+- P1-00:06:19: The participant is looking for attractive font options and seems to struggle to find them.
+- P1-00:07:23: The participant wants to change a design aspect but seems to struggle with the tools.
+- P1-00:07:58: The user is unsure if their design generation was successful ("不知道他有没有生成成功。").
+- P1-00:09:19: The user notes that their previous designs were not saved ("看起来他没有办法保存我上一次生成的东西。").
+- P1-00:11:05: The user cannot go back to a previous step after making a selection ("是不是选了一个他就没办法返回上一层了呀？").
+- P1-00:16:36: The user is looking for a grammar check function ("secret，有没有检查语法的？secret，不太对。").
+- P1-00:18:11: The user struggles to change the color of the text ("字母的颜色怎么换呢？").
+- P1-00:19:41: The user finds that there are only a few styles available for local changes ("所以它的局部更改就只有这三种。").
+- P2-00:01:07: The participant wanted to create a rectangular post but seemed to struggle with setting the desired aspect ratio.
+- P2-00:01:34: Difficulty with background customization
+- P2-00:04:06: The participant was unsatisfied with the first generated result and seemed to resort to looking for images on Google, suggesting difficulty in achieving desired outcomes with the provided tools.
+- P2-00:06:17: User confusion over disappearing UI elements after interaction.
+- P2-00:07:08: The participant encountered an error message, indicating a failure in generating the design.
+- P2-00:07:46: The participant noticed that the design elements generated were not integrated into a cohesive whole.
+- P2-00:08:14: The user experienced repeated failures with the system.
+- P2-00:09:17: System lag with text and reference images
+- P2-00:14:00: Difficulty in using the 'Remove Background' tool effectively.
+- P2-00:17:36: The participant wished for color recommendations, implying the tool did not provide adequate guidance for color selection.
+- P2-00:19:06: Difficulty in generating a location for the event
+- P2-00:19:42: The participant was confused by the functionality of adding text to the design.
+- P2-00:21:17: The user noted a lack of style consistency between different generated elements, making the overall design appear disjointed.
+- P2-00:22:32: Frustration with the inconsistency in the style of different elements within the design.
+- P2-00:23:54: Real-world children element generated unrealistically
+- P2-00:26:01: The participant wanted to change the orientation of an element but was unsure whether it should be done during AI generation or afterwards.
+- P2-00:27:43: The user was overwhelmed by the number of elements in the poster and struggled to make the text look appealing.
+- P3-00:01:33: The participant finds something humorous and possibly unrealistic about the design (Santa Claus hanging from a tree).
+- P3-00:02:52: The participant expresses disappointment with the generated design ("这也太不像了吧，也太不像了"), indicating that the system did not produce results that matched their expectations.
+- P3-00:03:04: The participant is dissatisfied with the generated results, indicating they did not match expectations.
+- P3-00:03:21: The participant wonders if the system's output in Chinese is due to the input being in Chinese. Confusion over language input affecting output.
+- P3-00:05:08: The participant notes that the design only includes a snowman and not Santa Claus. Missing element in the generated design.
+- P3-00:05:44: The participant notes that the trees generated are too realistic compared to the desired two-dimensional style. Inconsistency between the generated elements and the expected aesthetic style.
+- P3-00:06:21: The user has trouble with the 'Remove background' feature not working as expected ("哦，去的很不智能诶，这后面就是羽化没有成功，还有好多噪点").
+- P3-00:07:35: Confusion arises regarding the items generated in relation to their description ("额，挂在树上的礼物呢？试一下。还是没有，只有像树形的礼物").
+- P3-00:08:23: The participant is looking for how to add text and seems to need help ("想加一些文字，在哪。求助").
+- P3-00:09:47: A desired font is not available ("其实都不是，没有我想要的字体").
+- P3-00:11:47: The participant is unable to find a school logo, which suggests the system lacks certain assets. Absence of specific content, like a school logo, in the system.
+- P3-00:13:30: The participant is dissatisfied with a feature (removing the background from an image) and finds no way to recover from the error
+- P3-00:14:27: The participant reacts to unexpected elements in the design ("怎么还有真人的圣诞老人，我也是服").
+- P3-00:14:41: Navigation issues are present ("这咋回去呀").
+- P3-00:15:14: Final remark of dissatisfaction suggests that the overall experience did not meet the user's needs or expectations. The participant ends the task with a sense of dissatisfaction.
+- P4-00:01:14: The participant is unsure about the term "candy cane" in both Chinese and English and decides to look it up using another tool.
+- P4-00:01:48: The user is unsatisfied with the generated element and needs to regenerate it, showing a possible lack of control or feedback on how to modify or redo actions.
+- P4-00:04:02: The participant expected to be able to edit elements individually (like removing one candy cane) but realized the design was a single image, leading to confusion.
+- P4-00:04:17: The user had difficulty with the undo function and was not able to exit the current interaction easily.
+- P4-00:04:47: Expressions of difficulty in using the software, such as "好难用" (so hard to use), suggest that the system may not be intuitive or easy to interact with.
+- P4-00:06:49: The user finds that the design output does not place elements in the desired location and that they cannot make two requests at the same time.
+- P4-00:11:19: Problems with text alignment indicate that the system does not provide the expected level of control over layout, which could be standard in other design software.
+- P4-00:12:23: Text alignment tools were not intuitive, and the alignment buttons behaved unpredictably.
+- P4-00:13:10: The participant was surprised by how the undo function worked, implying it did not meet standard expectations.
+- P4-00:13:37: The participant was surprised by the method of resizing text and found it counterintuitive.
+- P4-00:15:19: There was confusion about text size consistency and the text box adjustments were not clear.
+- P4-00:15:41: The participant struggles to understand how text box adjustments work.
+- P4-00:17:17: The user attempts to add color elements and control typography, which suggests that the system might not be providing efficient tools or shortcuts for expert users to speed up the interaction.
+- P4-00:18:18: The participant noticed a pre-generated design on the side and decided to use it, indicating a preference for templates over creating from scratch.
+- P4-00:19:23: The participant finds the template selected is not intelligent enough to adapt to the changes they want to make.
+- P5-00:00:00: The participant looks for guidance on how to use the system but only finds a general introduction. Lack of instructional support for using the system effectively.
+- P5-00:00:35: The participant is uncertain about whether they can create a complete poster at once or if they need to build it step by step (background first, then elements).
+- P5-00:01:54: The participant notices that the generated images do not match the input description and feels the results are unrelated to their expectations. Generated images do not match the user's description, leading to confusion.
+- P5-00:02:46: The participant mentions that the generation time feels long and expresses concern about the relevance of the backend image suggestions. Long wait times for image generation and irrelevant image suggestions.
+- P5-00:03:39: The participant is unsure if they can add a snowman to match the existing style of the poster. Uncertainty about adding elements consistent with the design style.
+- P5-00:04:35: The participant struggles to find a matching style for the snowman and is unsure how to describe the style to search for it. Difficulty in searching for and adding a snowman in a matching style.
+- P5-00:05:41: The participant realizes the design layout does not leave room for adding the list of activities for the Christmas party. Inflexible design layout that does not accommodate all the required information.
+- P5-00:08:16: The participant feels the need to add a snowman image to the poster since it's mentioned as one of the activities but is unsure if it will fit in stylistically.
+- P5-00:08:33: The participant is confused by the image's aspect ratio and is unsure why it is square. Confusion about the aspect ratio of the generated images.
+- P5-00:09:45: The participant struggles to find a small element of a snowman that matches the style of the poster. Difficulty in finding and adding specific design elements that match the poster style.
+- P5-00:10:15: The participant accidentally selects the wrong function when attempting to add a snowman graphic, which could suggest that the interface does not clearly distinguish between different actions.
+- P5-00:11:07: Difficulty in adjusting the color of the snowman to match the design's color scheme.
+- P6-00:01:17: The participant notes that the system is slow.
+- P6-00:01:22: The system failed to recognize specific elements that the user mentioned.
+- P6-00:01:33: The participant finds the suggestions not useful for their specific goal, which involves including detailed information in a poster.
+- P6-00:03:01: The participant questions whether the failure to understand the input is their fault.
+- P6-00:05:41: Confusion about why an element is animated and no information was provided about this feature.
+- P6-00:05:50: The participant struggles to find a way to exit an unwanted feature.
+- P6-00:06:14: The participant is unable to change the size of an element as expected.
+- P6-00:07:13: The participant struggles with adjusting image attributes other than filters and finds the tools not intuitive.
+- P6-00:07:49: After removing the background from an image, the selection box remains the original size, creating difficulty when arranging elements.
+- P6-00:08:59: Difficulty in selecting and editing elements without accidentally selecting other elements.
+- P6-00:09:42: The participant experiences difficulty with the text tool, as it does not default to the preferred font choice.
+- P6-00:11:17: Confusion about how to modify elements, indicating a lack of clear and intuitive interfaces.
+- P6-00:13:15: The participant is frustrated with the low resolution of elements and the inability to change certain aspects of the design.
+- P6-00:13:40: The participant feels that the system is not particularly user-friendly and is afraid of losing work by navigating away.
+- P7-00:04:46: The participant questioned if their long prompt could be accepted by the system.
+- P7-00:05:20: The participant noted that the "Happy Christmas" theme was not placed at the top of the poster as they wanted.
+- P7-00:06:10: The participant noticed that the system-generated images varied and did not consistently place the theme at the top of the poster, questioning whether the system's understanding of the prompt was influenced by language issues.
+- P7-00:07:19: The participant had to make manual adjustments to the AI-generated output.
+- P7-00:08:36: The participant repeated the word "time" multiple times, suggesting difficulty in adding or editing the time for the Christmas party.
+- P7-00:10:09: The participant changed the font multiple times, indicating a potential issue with finding or applying the desired typography.
+- P7-00:11:10: The participant was confused about how to use the color palette.
+- P8-00:00:10: The user took some time after stating the goal to find the Generate function for a Christmas poster, possibly indicating discoverability issues.
+- P8-00:00:52: The participant selects a simple design but may be indicating a lack of variety or difficulty finding a complex or more decorated template suitable for a Christmas poster.
+- P8-00:01:44: The user was looking for images to add but might have struggled to find or was unsure if images could be added, indicating a potential lack of visibility or intuitive navigation.
+- P8-00:03:32: The user wants to make the font bigger, change the color, and make it bold, which suggests a lack of clarity or difficulty in using text editing tools.
+- P8-00:04:55: The participant notes that some images are too realistic and may not match the desired style of the poster.
+- P8-00:06:36: The user seems to have difficulty finding a variety of images to include in the poster, settling for bells as there are not many options.
+- P8-00:07:40: The participant adds promotional language and details about the party, which could indicate that the template did not prompt or provide sections for this important event information.
+- P8-00:09:44: The user had to specify the time and location for the event within the design, which may have required multiple steps or was not straightforward.
+- P8-00:11:46: The user needed to adjust the positioning of text, which suggests that the interface might not have been immediately intuitive or easily adjustable.
+- P8-00:12:12: The participant decides to change an image, possibly indicating dissatisfaction with the initial choice or a mismatch with the poster’s theme.
+- P9-00:00:24: The user attempts to upload a draft but encounters an issue or delay, indicated by "正在加载中" (loading).
+- P9-00:01:52: Difficulty understanding whether a description needs to be added after uploading an image.
+- P9-00:03:56: The user expresses frustration with the generation of irrelevant content, stating that the system misunderstood the draft as wallpaper in a living room instead of a Christmas poster.
+- P9-00:06:12: The user finds that the media does not seem to be useful for generation purposes.
+- P9-00:06:27: The user receives a message about triggering a guideline without clear information on the issue.
+- P9-00:07:34: The user decides to delete the media after encountering issues with it, suggesting a lack of user control or freedom.
+- P9-00:08:06: The user expects the AI to generate content based on a sketch, but it does not meet expectations, leading to a comment about the tool being "rubbish".
+- P9-00:10:49: Difficulty in getting the system to understand the concept of left and right in the design.
+- P9-00:11:20: The system generated the same result multiple times, indicating a lack of intelligent variation in generation.
+- P9-00:11:48: The user is pleased with a generated element but is unable to customize it as desired, particularly with regards to positioning (left and right sides).
+- P9-00:12:08: Uncertainty about which features are powered by AI and how to use them.
+- P9-00:12:50: The user is searching for AI features to use but cannot find them, expressing a lack of visibility of AI functionalities.
+- P9-00:14:27: Difficulty in finding how to make the poster "shine" or have a "blingbling" effect.
+- P9-00:17:40: The user wants to adjust the line spacing but seems unable to do so, resulting in a decision to duplicate the text multiple times as a workaround.
+- P9-00:18:38: Uncertainty on how to correctly format the date and time for the event on the poster.
+- P9-00:20:18: The user is confused about the function of certain design elements and how to achieve a specific visual effect, indicating a lack of clarity in the interface.
+- P9-00:21:52: The user is impressed with the 'Remove background' feature but finds the outcome somewhat startling, indicating the feature's effect may not be well communicated.
+- P10-00:02:59: The participant noticed a discrepancy between their expectations and the generated output. This indicates a possible mismatch between user expectations and the system's output.
+- P10-00:03:08: The user expressed a need for a feature to tweak an existing poster template rather than generating something from scratch, which seems to be missing.
+- P10-00:04:13: The user specified the title and layout in the prompt, but the generated design did not reflect these details.
+- P10-00:04:59: The participant had to manually adjust the title and add time and location information which was not automatically included.
+- P10-00:07:38: The participant seems to struggle with finding and using customizable components for their design.
+- P10-00:08:30: The user attempts to generate a tag but finds the results unsatisfactory and not particularly useful. The tag generation feature does not meet user needs and expectations.
+- P10-00:09:34: The user finished the task but seems to be left with a feeling that the tools provided were not entirely useful or did not meet the need. 帮我在每一段之前加入 "- " ， 并帮我放在代码栏中，方便我复制
