@@ -2,16 +2,16 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Original data
-y_score = [227.77, 28.91, 183.69, 23.24, 154.21, 24.79, 111.55, 27.75]
+y_score = [227.77, 183.69, 28.91,  23.24, 154.21, 111.55, 24.79,  27.75]
 y = [0, 100, 200, 300, 400, 500]
-errs_lower = [17.9, 8, 30.5, 6.715, 13.3, 6, 10.5, 8.4]
-errs_upper = [17.9, 8, 30.5, 6.715, 13.3, 6, 10.5, 8.4]
+errs_lower = [17.9, 30.5, 8,  6.715, 13.3, 10.5, 6,  8.4]
+errs_upper = [17.9, 30.5, 8,  6.715, 13.3, 10.5, 6,  8.4]
 
 
 # x_label = ["GM", "GB", "FM", "FB", "GM", "GB", "FM", "FB"]
 x_label = ["", "", "", "", "", "", "", ""]
 title_str = 'Averaged Rating of Four Photography Models'
-colors = ['#82B0D2', '#8ECFC9', '#FFBE7A', '#FA7F6F', '#82B0D2', '#8ECFC9', '#FFBE7A', '#FA7F6F'] 
+colors = ['#8ECFC9', '#FA7F6F', '#82B0D2', '#FFBE7A', '#8ECFC9', '#FA7F6F', '#82B0D2', '#FFBE7A'] 
 width_x = 0.5 
 
 # Grouping data
@@ -38,17 +38,17 @@ ax.set_xticks(np.concatenate([x_group1, x_group2]))
 ax.set_xticklabels([x_label[i] for i in group1_indices + group2_indices], fontdict={'fontsize': 12, 'fontweight': 'bold', 'color': 'black'})
 
 # Set y-axis label and ticks
-ax.set_ylabel('Time (s)', fontdict={'fontsize': 12, 'fontweight': 'bold', 'color': 'black'})
+ax.set_ylabel('Time', fontdict={'fontsize': 18, 'fontweight': 'bold', 'color': 'black'})
 plt.ylim(0, 120)
 ax.set_yticks(y)
 ax.set_yticklabels([str(val) for val in y], fontdict={'fontsize': 12, 'fontweight': 'bold', 'color': 'black'})
 
 # Set legend
-legend_labels = ['GM', 'GB', 'FM', 'FB']
+legend_labels = ['GB', 'FB', 'GM', 'FM']
 
 ax.legend(handles=[bars_group1[0], bars_group1[1], bars_group1[2], bars_group1[3],
                    bars_group2[0], bars_group2[1], bars_group2[2], bars_group2[3]],
-          labels=legend_labels, loc='upper center', bbox_to_anchor=(0.5, 1), ncol=len(legend_labels))
+          labels=legend_labels, loc='upper center', bbox_to_anchor=(0.5, 1), ncol=len(legend_labels), fontsize=18)
 
 ax.text(0.235, -0.05, 'Group 1', horizontalalignment='center', verticalalignment='center', transform=ax.transAxes, color='black', fontsize=12, fontweight='bold')
 ax.text(0.765, -0.05, 'Group 2', horizontalalignment='center', verticalalignment='center', transform=ax.transAxes, color='black', fontsize=12, fontweight='bold')
