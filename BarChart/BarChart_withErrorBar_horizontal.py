@@ -4,7 +4,7 @@ import numpy as np
 from matplotlib import rcParams
 rcParams['font.family'] = 'SimHei'
 
-plt.figure(figsize=(13, 10))
+plt.figure(figsize=(10, 16),dpi=250)
 # 构造y轴刻度标签、数据
 labels = ['G1', 'G2', 'G3', 'G4', 'G5','G1', 'G2', 'G3', 'G4', 'G5']
 
@@ -36,9 +36,9 @@ fifth = [3.4, 3.5, 3.3, 4.1, 4, 3.4, 3.2, 2.1, 2.7, 2.5]
 
 
 Question = ["I think that I would like to use this system frequently", "I think the system is not complex",
-            "I think the system was easy to use", "I think that I would not need the support of a technical person to be able to use this system",
-            "I found the various functions in this system were well integrated", "I think the system is very efficient",
-            "I am very satisfied with the system", "I would image that most people would learn to use this system very quickly",
+            "I think the system is easy to use", "I would not need the support of a technical person",
+            "I found the system was well integrated", "I think the system is very efficient",
+            "I am very satisfied with the system", "I think people would learn to use this system quickly",
             "I think this system is consistent", "I feel very confident when using the system"]
 
 errs_lower = [4, 4, 0, 0, 26, 7, 0, 0]
@@ -67,34 +67,34 @@ height = 0.25  # 柱子的高度
 base = 0.75
 # 计算每个柱子在y轴上的位置，保证y轴刻度标签居中
 # y - height/2，y + height/2即每组数据在y轴上的位置
-bars1 = plt.barh(y - base * height, first, base * height, capsize=5)
+bars1 = plt.barh(y -  base * height, first, base * height, capsize=5)
 # 224
 # bars2 = plt.barh(y, second, height, label='GB',  color='#8ECFC9', capsize=5)
 # bars3 = plt.barh(y + height, third, height, label='FB', color='#FA7F6F', capsize=5)
  #8ECFC9 #FA7F6F
  #82B0D2 #FFBE7A
-bars2 = plt.barh(y, second, base * height, xerr=error_GB, label='GB',  color='#8ECFC9', capsize=3)
-bars3 = plt.barh(y +  base * height, third, base * height, xerr=error_FB,  label='FB', color='#FA7F6F', capsize=3)
-bars4 = plt.barh(y + 2 * base * height, forth, base * height, xerr=error_GM, label='GM',  color='#82B0D2', capsize=3)
-bars5 = plt.barh(y + 3 * base * height, fifth, base * height, xerr=error_FM,  label='FM', color='#FFBE7A', capsize=3)
+bars2 = plt.barh(y, second, base * height, xerr=error_GB, label='GB',  color='#8ECFC9', capsize=4)
+bars3 = plt.barh(y +  base * height, third, base * height, xerr=error_FB,  label='FB', color='#FA7F6F', capsize=4)
+bars4 = plt.barh(y + 2 * base * height, forth, base * height, xerr=error_GM, label='GM',  color='#82B0D2', capsize=4)
+bars5 = plt.barh(y + 3 * base * height, fifth, base * height, xerr=error_FM,  label='FM', color='#FFBE7A', capsize=4)
 
-plt.xticks(fontsize=18)
-plt.xlabel('Score', fontsize=20)
+plt.xticks(fontsize=17)
+plt.xlabel('Score', fontdict={'fontsize': 18, 'fontweight': 'bold', 'color': 'black'})
+
 # y轴刻度标签位置不进行计算
 plt.yticks([])
 
 # 添加文字标签说明问题的比较
 for i, (bar1, bar2, bar3, bar4, bar5) in enumerate(zip(bars1, bars2, bars3, bars4, bars5)):
     plt.text(0 , bar1.get_y() + bar1.get_height() / 2,
-             Question[i], ha='left', va='center', color='black',fontsize=10)
+             Question[i], ha='left', va='center', color='black',fontsize=17)
 
 plt.gca().invert_yaxis()
 plt.legend(fontsize=15)
 
 # 设置x轴范围为0到5
 plt.xlim(0, 5.5)
-
-plt.show()
+plt.savefig('E:\Project\Gits\FigureToolbox\FigureToolbox\BarChart\SUS.jpg', bbox_inches='tight')
 
 
 

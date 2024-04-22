@@ -1,12 +1,11 @@
 import matplotlib.pyplot as plt
 import numpy as np
-plt.figure(figsize=(50, 50), dpi=250)
-# Original data
-y_score = [227.77, 183.69, 28.91,  23.24, 154.21, 111.55, 24.79,  27.75]
-y = [0, 80, 160, 240, 320]
-errs_lower = [17.9, 30.5, 8,  6.715, 13.3, 10.5, 6,  8.4]
-errs_upper = [17.9, 30.5, 8,  6.715, 13.3, 10.5, 6,  8.4]
 
+# Original data
+y_score = [3.6125, 2.85, 3.2625,  3.1875, 3.675, 3.2125, 3.55,  3.3125]
+y = [0, 1, 2, 3, 4, 5]
+errs_lower = [0.798338118/2, 0.881759604/2, 1.081015148/2, 0.838059515/2, 0.862771696/2, 0.832071962/2, 0.920597632/2,  0.751560876/2]
+errs_upper = [0.798338118/2, 0.881759604/2, 1.081015148/2, 0.838059515/2, 0.862771696/2, 0.832071962/2, 0.920597632/2,  0.751560876/2]
 
 # x_label = ["GM", "GB", "FM", "FB", "GM", "GB", "FM", "FB"]
 x_label = ["", "", "", "", "", "", "", ""]
@@ -37,8 +36,8 @@ bars_group2 = ax.bar(x_group2, [y_score[i] for i in group2_indices], yerr=errs_2
 ax.set_xticks(np.concatenate([x_group1, x_group2]))
 ax.set_xticklabels([x_label[i] for i in group1_indices + group2_indices], fontdict={'fontsize': 12, 'color': 'black'})
 
-ax.set_ylabel('Time', fontdict={'fontsize': 15, 'color': 'black'})
-plt.ylim(0, 380)
+ax.set_ylabel('Score', fontdict={'fontsize': 15, 'color': 'black'})
+plt.ylim(0, 5.5)
 ax.set_yticks(y)
 ax.set_yticklabels([str(val) for val in y], fontdict={'fontsize': 12, 'color': 'black'})
 
@@ -54,4 +53,4 @@ ax.text(0.765, -0.05, 'Group 2', horizontalalignment='center', verticalalignment
 # Set title
 # plt.title(title_str, fontsize=14, fontweight='bold')
 
-plt.savefig('E:\Project\Gits\FigureToolbox\FigureToolbox\BarChart\SUS.jpg', bbox_inches='tight')
+plt.savefig('E:\Project\Gits\FigureToolbox\FigureToolbox\BarChart\SUS_1.jpg', bbox_inches='tight')
